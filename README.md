@@ -139,11 +139,40 @@ Evaluates image quality and generates human-like explanations using deep learnin
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Goals & Aspirations
 
-- 🚀 Building AI-powered full-stack applications  
-- 🧠 Strengthening DSA + System Design  
-- ⚙️ Integrating ML models into real-world systems  
+<table>
+<tr>
+
+<td width="65%">
+
+I'm a builder focused on one thing — turning AI ideas into real, working systems.
+
+### ⚡ Full Stack Engineer (AI-integrated systems)
+
+> I don’t just experiment with AI — I design, build, and ship production-ready systems  
+> that integrate frontend, backend, and intelligent models into one pipeline.
+
+<br/>
+
+<pre>
+Primary focus   →  AI infra • RAG pipelines • scalable ML systems
+Building now    →  LLM-powered apps • agents • real-world integrations
+Edge           →  Production-ready systems • reliability • low failure rates
+Ownership      →  UI → Backend → ML → Deployment (end-to-end)
+Goal           →  Build AI products that actually work in production
+</pre>
+
+</td>
+
+<td width="35%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 <p align="center">
