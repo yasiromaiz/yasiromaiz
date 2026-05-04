@@ -146,7 +146,26 @@ Evaluates image quality and generates human-like explanations using deep learnin
 - ⚙️ Integrating ML models into real-world systems  
 
 ---
+<p align="center">
+  <b>I build systems that think, not just apps that run.</b>
+</p>
 
- "I build systems that think, not just apps that run."
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yasiromaiz&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=yasiromaiz&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+---
+
+<p align="center">
+  <b>Always happy to connect</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yasiromaiz&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  CS @ Dr KVSRIT • Andhra Pradesh, India • 2027
+</p>
