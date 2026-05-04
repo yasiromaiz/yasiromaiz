@@ -43,7 +43,7 @@ goal      : Build intelligent, scalable systems
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/yasiromaiz/yasiromaiz/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/yasiromaiz/yasiromaiz/output/github-contribution-grid-snake-dark.svg?cache_bust=1" />
 </p>
 
 
