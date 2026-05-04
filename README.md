@@ -113,14 +113,13 @@ Evaluates image quality and generates human-like explanations using deep learnin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasiromaiz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=yasiromaiz&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasiromaiz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=yasiromaiz&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasiromaiz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasiromaiz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
