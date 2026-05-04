@@ -167,7 +167,7 @@ Goal           →  Build AI products that actually work in production
 
 <td width="35%">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/ZS57kdXudVqsDX0TLH/giphy.gif" width="100%" />
 
 </td>
 
