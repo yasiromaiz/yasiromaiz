@@ -149,4 +149,4 @@ Evaluates image quality and generates human-like explanations using deep learnin
 
 > "I build systems that think, not just apps that run."
 
-<img src="https://komarev.com/ghpvc/?username=yasiromaiz&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yasiromaiz&label=views&color=grey&style=flat" />
