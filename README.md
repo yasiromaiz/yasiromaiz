@@ -33,7 +33,7 @@ goal      : Build intelligent, scalable systems
 </td>
 
 <td width="45%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)" width="100%" />
 </td>
 
 </tr>
