@@ -1,4 +1,7 @@
 <h1 align="center">K Muhammad Yasir Omaiz</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+(MERN)+%2B+AI+Engineer;Building+AI-powered+systems;MERN+%2B+ML+%2B+Computer+Vision;Focused+on+DSA+%2B+System+Design" />
+</p>
 <h3 align="center">Full Stack (MERN) + AI Engineer ⚡</h3>
 
 <p align="center">
