@@ -151,12 +151,6 @@ Evaluates image quality and generates human-like explanations using deep learnin
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasiromaiz&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
   <b>Always happy to connect</b>
 </p>
 
