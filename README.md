@@ -21,6 +21,14 @@ learning  : DSA • System Design • Core CS
 goal      : Build intelligent, scalable systems
 ```
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/yasiromaiz/yasiromaiz/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 ## 🚀 Featured Projects
 
 ### 🔥 AI Visual Reasoning System
