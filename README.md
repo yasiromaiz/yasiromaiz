@@ -14,15 +14,30 @@ Focused on MERN • Machine Learning • Computer Vision • DSA
 
 ---
 
-### 👋 Hey, I'm Yasir
 
-```bash
+<table>
+<tr>
+
+<td width="55%">
+
+<h3>👋 Hey, I'm Yasir</h3>
+
+<pre>
 name      : Muhammad Yasir Omaiz
 role      : Full Stack + AI Engineer
 focus     : MERN + ML + Computer Vision
 learning  : DSA • System Design • Core CS
 goal      : Build intelligent, scalable systems
-```
+</pre>
+
+</td>
+
+<td width="45%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+
+</tr>
+</table>
 
 
 ## 🐍 Contribution Snake
