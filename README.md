@@ -151,7 +151,7 @@ Evaluates image quality and generates human-like explanations using deep learnin
 </p>
 
 <p align="center">
-  <b>Always happy to connect</b>
+  <b>Always happy to connect! :)</b>
 </p>
 
 <p align="center">
